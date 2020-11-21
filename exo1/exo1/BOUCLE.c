@@ -67,4 +67,5 @@ int main() {
 
 	/*********** On remarque ici et dans toutes les boucles que si l'on ne note pas un entier naturel pour n,
 	alors la valeurs sera arrondie à l'entier naturel inférieur le plus proche! ***********/
+
 }
